@@ -14,11 +14,11 @@
 - Patch the tool, not the philosophy. If the toolchain already has it, use it — ship the minimal thing that works.
 
 
-## stack
+## Stack
 
 C · Rust · Assembly · C++ · Shell · Python
 
-## how to reach me
+## How to reach me
 
 - **GitHub:** [KananMajidzada](https://github.com/KananMajidzada)
 - **Email:** kananmajidzada@gmail.com
