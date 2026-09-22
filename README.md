@@ -9,10 +9,9 @@
 
 </div>
 
-
- Understand the whole stack. If you can't rebuild it, you don't own it.
- Static is beautiful. PIE binaries you can file and trust — no loader, no libc dance, nothing hidden.
- Patch the tool, not the philosophy. If the toolchain already has it, use it — ship the minimal thing that works.
+- Understand the whole stack. If you can't rebuild it, you don't own it.
+- Static is beautiful. PIE binaries you can file and trust — no loader, no libc dance, nothing hidden.
+- Patch the tool, not the philosophy. If the toolchain already has it, use it — ship the minimal thing that works.
 
 
 ## stack
