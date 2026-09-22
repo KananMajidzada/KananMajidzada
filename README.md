@@ -3,7 +3,7 @@
 
 **Freedom is everything.**
 
-**Independent systems engineer.** I build operating systems the hard way — from scratch, without GNU.
+**Independent systems engineer.** 
 
 ---
 
