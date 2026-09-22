@@ -31,7 +31,7 @@ C · Rust · Assembly · C++ · Shell · Python
 
 <img width="88" height="31" alt="68747470733a2f2f63796265722e646162616d6f732e64652f38387833312f6e65746273642e676966" src="https://github.com/user-attachments/assets/d607f146-bd3a-4b3b-a5ef-f370eb47f514" /> <img width="88" height="31" alt="button3sea" src="https://github.com/user-attachments/assets/c8ee8f9d-c413-437f-8871-cfaff6d812d0" />
 <img width="88" height="31" alt="linux-p" src="https://github.com/user-attachments/assets/74e61402-8db6-4729-8de0-aa24298c10f6" />
-<img width="88" height="31" alt="68747470733a2f2f63796265722e646162616d6f732e64652f38387833312f656d6163732e676966" src="https://github.com/user-attachments/assets/ae76dd0e-c9d6-497f-9932-3020e653ffc2" />
+
 
 
 </div>
