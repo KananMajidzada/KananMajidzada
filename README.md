@@ -3,18 +3,16 @@
 
 **Freedom is everything.**
 
-**Independent systems engineer.** 
+**Independent system engineer.** 
 
 ---
 
 </div>
 
-- Understand the whole stack. If you can't rebuild it, you don't own it.
-- Static is beautiful. PIE binaries you can file and trust — no loader, no libc dance, nothing hidden.
-- Patch the tool, not the philosophy. If the toolchain already has it, use it — ship the minimal thing that works.
+Co Creator Of FreeLinX and Creator Of dux Virtual Machine. 
 
 
-## Stack
+## Langs
 
 C · Rust · Assembly · C++ · Shell · Python
 
