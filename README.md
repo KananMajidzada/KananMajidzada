@@ -11,10 +11,12 @@
 
 Co Creator Of FreeLinX and Creator Of dux Virtual Machine. 
 
+Cooking Bunix On Hare. 
+
 
 ## Langs
 
-C · Rust · Assembly · C++ · Shell · Python
+C · Rust · Assembly · C++ · Shell · Hare
 
 ## How to reach me
 
