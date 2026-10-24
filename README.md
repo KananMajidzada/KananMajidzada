@@ -9,9 +9,7 @@
 
 </div>
 
-Co Creator Of FreeLinX and Creator Of dux Virtual Machine. 
-
-Cooking Bunix On Hare. 
+I Hate Close Source Software.
 
 
 ## Langs
