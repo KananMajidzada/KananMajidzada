@@ -3,7 +3,6 @@
 
 **Freedom is everything.**
 
-**Independent system engineer.** 
 
 ---
 
